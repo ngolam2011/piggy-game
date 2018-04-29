@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "start": "live-server"
   },
   "repository": {
     "type": "git",
@@ -14,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ngolam2011/piggy-game/issues"
   },
-  "homepage": "https://github.com/ngolam2011/piggy-game#readme"
+  "homepage": "https://github.com/ngolam2011/piggy-game#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
 }
