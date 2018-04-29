@@ -15,8 +15,8 @@
   "bugs": {
     "url": "https://github.com/ngolam2011/piggy-game/issues"
   },
-  "homepage": "https://github.com/ngolam2011/piggy-game#readme",
-  "devDependencies": {
+  "dependencies": {
     "live-server": "^1.2.0"
-  }
+  },
+  "homepage": "https://github.com/ngolam2011/piggy-game#readme"
 }
